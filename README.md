@@ -67,9 +67,6 @@ agy --output-format json models
 agy --output-format stream-json agents
 ```
 
-The flag is global, so the trailing form (`agy models --output-format json`) is
-not supported.
-
 ---
 
 ## Authentication
